@@ -1,4 +1,5 @@
 import React, {useState} from 'react';
+import './App.css';
 import Time from './components/Time';
 import Sorting from './components/Sorting';
 import Button from './components/Button';
@@ -84,7 +85,7 @@ function App() {
   }
 
   return (
-        <div id="container" class="flex flex-col justify-center items-center gap-y-4 mt-44">
+        <div id="container" className="flex flex-col justify-center items-center gap-y-4 mt-44">
     <div id="select1">
       <Time timeChange={(e)=>setTime(e.target.value)}/>
       <Sorting sortChange={(e)=>setSort(e.target.value)}/>
@@ -99,7 +100,7 @@ function App() {
      <Button showDisplay={working} submitBtn = "Check Flights"/>
     </div>
     
-    <div id="available" class="flex flex-col justify-center items-center mt-24">
+    <div id="available" className="flex flex-col justify-center items-center mt-24">
       {content}
     </div>
   </div>
