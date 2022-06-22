@@ -1,0 +1,16 @@
+[{
+    "Name": "Indigo",
+    "Travel": [{"Locations": "Indore - Bangalore", "Duration": 2}, {"Locations": "Indore - Delhi", "Duration": 1}, {"Locations": "Bangalore - Indore", "Duration": 1}, {"Locations": "Bangalore - Delhi", "Duration": 3}]
+  }, {
+    "Name": "Air India",
+    "Travel": [{"Locations": "Delhi - Bangalore", "Duration": 2}, {"Locations": "Indore - Bangalore", "Duration": 2}, {"Locations": "Bangalore - Delhi", "Duration": 3}]
+  }, {
+    "Name": "Vistara",
+    "Travel": [{"Locations": "Delhi - Indore", "Duration": 1}, {"Locations": "Indore - Delhi", "Duration": 1}, {"Locations": "Bangalore - Indore", "Duration": 2}]
+  }, {
+    "Name": "Air Asia",
+    "Travel": [{"Locations": "Delhi - Indore", "Duration": 2}, {"Locations": "Delhi - Bangalore" ,"Duration": 3}, {"Locations": "Indore - Delhi", "Duration": 1}, {"Locations": "Bangalore - Delhi", "Duration": 4}]
+  }, {
+    "Name": "SpiceJet",
+    "Travel": [{"Locations": "Delhi - Indore", "Duration": 1}, {"Locations": "Indore - Bangalore", "Duration": 5}, {"Locations": "Indore - Delhi", "Duration": 2}]
+  }]
