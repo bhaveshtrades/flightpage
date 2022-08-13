@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/flightpage/static/css/main.c09f09cb.css",
+    "main.js": "/flightpage/static/js/main.e96ff8b8.js",
+    "static/js/787.bf3ba50c.chunk.js": "/flightpage/static/js/787.bf3ba50c.chunk.js",
+    "index.html": "/flightpage/index.html",
+    "main.c09f09cb.css.map": "/flightpage/static/css/main.c09f09cb.css.map",
+    "main.e96ff8b8.js.map": "/flightpage/static/js/main.e96ff8b8.js.map",
+    "787.bf3ba50c.chunk.js.map": "/flightpage/static/js/787.bf3ba50c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c09f09cb.css",
+    "static/js/main.e96ff8b8.js"
+  ]
+}
